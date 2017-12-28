@@ -10,8 +10,7 @@ Included Files
 There are two main files and several supporting files from Bootstrap
 > 1.	index.html: Location: my-portfolio/docs/main-code/index.html: This HTML file was modified/created using a Bootstrap template and modified for my portfolio.
 > 2.	jumbotron-narrow.css: Location: my-portfolio/docs/main-code/jumbotron-narrow.css: This CSS file was modified/created using a Bootstrap template and modified for my portfolio.
-> 3.  All images, and my resume in .pdf file format are also located in my-portfolio/docs/main-code/ . This is not common practice and is only for this project.
-> 4.	ALL OTHER FILES: Located in various directories. All other files are the Bootstrap CSS support files and I have not modified them.
+> 3.	ALL OTHER FILES: Located in various directories. All other files are the Bootstrap CSS support files and I have not modified them.
 
 # Accessing/Open the Project
 
