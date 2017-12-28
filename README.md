@@ -3,19 +3,20 @@
 
 # Program Overview
 
-The following files generate a website to display a dynamic portfolio/resume website.  At this time all of the links point to my resume as there are no projects to display, and I have no links for my previous software developer experience since is was from 1998 - 2001.  I plan to populate the links with the projects that I complete in the Udacity Full Stack Web Developer Nanodegree, and also with projects that I am volunteering for with AT&T (my current employer).
+The following files generate a website to display a dynamic portfolio/resume website.  At this time all of the links point to my resume as there are no projects to display, and I have no links for my previous software developer experience since it was from 1998 - 2001.  I plan to populate the links with the projects that I complete in the Udacity Full Stack Web Developer Nanodegree, and also with projects that I am volunteering for with AT&T (my current employer).
 
 Included Files
 
 There are two main files and several supporting files from Bootstrap
 > 1.	index.html: Location: my-portfolio/docs/main-code/index.html: This HTML file was modified/created using a Bootstrap template and modified for my portfolio.
-> 2.	jumbotron-narrow.css: Location: my-portfolio/docs/main-code/index.html: This CSS file was modified/created using a Bootstrap template and modified for my portfolio.
-> 3.  All images, and my resume.pdf file are also located in my-portfolio/docs/main-code/ . This is not common practice and is only for this project.
-> 3.	ALL OTHER FILES: Located in various directories. All other files are the Bootstrap CSS support files and I have not modified them.
+> 2.	jumbotron-narrow.css: Location: my-portfolio/docs/main-code/jumbotron-narrow.css: This CSS file was modified/created using a Bootstrap template and modified for my portfolio.
+> 3.  All images, and my resume in .pdf file format are also located in my-portfolio/docs/main-code/ . This is not common practice and is only for this project.
+> 4.	ALL OTHER FILES: Located in various directories. All other files are the Bootstrap CSS support files and I have not modified them.
 
-# Installation
+# Accessing/Open the Project
 
 Open the index.html: Location: my-portfolio/docs/main-code/index.html from your favorite browser.
+> NOTE: Three screen shots of what the portfolio should look like are located in this directory and are titled 1) portfolio-full-screen.png, and 2) portfolio-Nexus-5X-part1.png, and 3) portfolio-Nexus-5X-part2.png.
 
 # Modifications
 
@@ -23,4 +24,4 @@ Feel free to modify the index.html and the jumbotron-narrow.css file for your ow
 
 # Credits
 
-Although I modified the index.html and jumbotron-narrow.css files, these were a template and all other files were created by Bootstrap for which I'm very greatful for them letting the public use and modify freely.
+Although I modified the index.html and jumbotron-narrow.css files, these were templates and all other files were created by Bootstrap for which I'm very greatful for them letting the public use and modify freely.
