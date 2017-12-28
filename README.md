@@ -8,13 +8,13 @@ The following files generate a website to display a dynamic portfolio/resume web
 Included Files
 
 There are two main files and several supporting files from Bootstrap
-> 1.	index.html: Location: my-portfolio/docs/main-code/index.html: This HTML file was modified/created using a Bootstrap template and modified for my portfolio.
-> 2.	jumbotron-narrow.css: Location: my-portfolio/docs/main-code/jumbotron-narrow.css: This CSS file was modified/created using a Bootstrap template and modified for my portfolio.
+> 1.	index.html: Location: my-portfolio/docs/html/index.html: This HTML file was modified/created using a Bootstrap template and modified for my portfolio.
+> 2.	jumbotron-narrow.css: Location: my-portfolio/docs/css/jumbotron-narrow.css: This CSS file was modified/created using a Bootstrap template and modified for my portfolio.
 > 3.	ALL OTHER FILES: Located in various directories. All other files are the Bootstrap CSS support files and I have not modified them.
 
-# Accessing/Open the Project
+# Accessing/Opening the Project
 
-Open the index.html: Location: my-portfolio/docs/main-code/index.html from your favorite browser.
+Open the index.html: Location: my-portfolio/docs/html/index.html from your favorite browser.
 > NOTE: Three screen shots of what the portfolio should look like are located in this directory and are titled 1) portfolio-full-screen.png, and 2) portfolio-Nexus-5X-part1.png, and 3) portfolio-Nexus-5X-part2.png.
 
 # Modifications
@@ -23,4 +23,4 @@ Feel free to modify the index.html and the jumbotron-narrow.css file for your ow
 
 # Credits
 
-Although I modified the index.html and jumbotron-narrow.css files, these were templates and all other files were created by Bootstrap for which I'm very greatful for them letting the public use and modify freely.
+Although I modified the index.html and jumbotron-narrow.css files, these were templates and all other files were created by Bootstrap for which I'm very greatful for them letting the public use and modify them freely.
