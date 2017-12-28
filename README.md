@@ -15,7 +15,7 @@ There are two main files and several supporting files from Bootstrap
 # Accessing/Opening the Project
 
 Open the index.html: Location: my-portfolio/docs/html/index.html from your favorite browser.
-> NOTE: Three screen shots of what the portfolio should look like are located in this directory and are titled 1) portfolio-full-screen.png, and 2) portfolio-Nexus-5X-part1.png, and 3) portfolio-Nexus-5X-part2.png.
+> NOTE: Three screen shots of what the portfolio should look like are located in the same directory as the README.md file that you are reading now, and are titled 1) portfolio-full-screen.png, and 2) portfolio-Nexus-5X-part1.png, and 3) portfolio-Nexus-5X-part2.png.
 
 # Modifications
 
