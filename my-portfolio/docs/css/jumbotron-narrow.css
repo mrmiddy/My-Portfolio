@@ -1,0 +1,120 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+/* Custom text size for your name */
+.name-text-size {
+   font-family: sans-serif;
+   font-size: 38px;
+   text-align: right;
+ }
+/* Custom text size for your title */
+ .title-text-size {
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: right;
+  }
+/* Customize the images */
+.image-size {
+  max-width: 100%;
+  height: auto;
+}
+ /* Center the Featured Work */
+.center {
+ margin: auto;
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 14px;
+ color: #2d3c49;
+}
+/* Custom page header */
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #7d97ad;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  text-align: right;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  text-align: right;
+}
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #7d97ad;
+}
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+  padding-top: 0px;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+  /* Increase the font size to match screen size */
+  .name-text-size {
+     /* font-family: sans-serif; */
+     font-size: 38px;
+     text-align: right;
+   }
+}
+/* Re-size the Name in the header */
+@media screen and (max-width: 420px) {
+ .name-text-size {
+    font-size: 24px;
+    text-align: right;
+  }
+}
