@@ -1,5 +1,5 @@
 # 
-# UDACITY Project_2 - My-Portfolio README
+# UDACITY Project 2 - My Portfolio README
 
 # Program Overview
 
